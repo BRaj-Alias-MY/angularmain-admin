@@ -1,1 +1,2 @@
-# angularmain-admin
+# npm install
+# ng s
